@@ -1,6 +1,6 @@
-# Vue 2.0 Simple Routing Example
+# route for single page appllication by vuejs
 
-> A simple example of routing with Vue 2.0 without using vue-router. This branch uses the raw HTML5 History API. For an example integrating a 3rd-party routing solution, see the [pagejs branch](https://github.com/chrisvfritz/vue-2.0-simple-routing-example/tree/pagejs).
+> 使用路由来解决单页面应用 的 页面切换
 
 ## Build Setup
 
